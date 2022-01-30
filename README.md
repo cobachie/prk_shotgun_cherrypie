@@ -1,2 +1,3 @@
 # prk_shotgun_cherrypie
-Shotgun チェリーパイのキーマップ
+
+[Shotgun チェリーパイ](https://github.com/Taro-Hayashi/Shotgun-CherryPie) のキーマップ
